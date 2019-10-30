@@ -8,6 +8,12 @@
 
 What is design? making your ideology realized in an object. It tries to be understandable. Design tries to signal a specific something; an intentional specific meaning that is hoped to be controlled for the right audience and context.
 
+## Free as in Freedom
+If academia is supposed to create new knowledge, we need to get better about abandoning proprietary tools and framworks and adopt and create more free (and in open) ones!
+
+## Design without Adobe
+Why limit our tools of creation to just those that Adobe chooses to let us have access too? If the situation in venezuela is any indication, capitalist entities have no interest in serving customers access to creativity perpetually...
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Design requires artistic skill, technical prowess, and conceptual thinking. Design is a communication mediator, a research tool, and a collaborator in the creation of culture. My desires are to encourage students to explore these facets of design, and to investigate future possibilities for the discipline. The first day of class in every course begins with the statement that design can be used for intellectual inquiry and self-expression, not just executing a client’s wishes.
