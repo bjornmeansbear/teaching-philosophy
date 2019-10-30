@@ -14,6 +14,10 @@
 
 > “If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.” — R. Buckminster Fuller
 
+> If someone notices something wrong, they are almost always right that something is wrong — but their way of fixing it probably isn't. So listen to the problem — but you have to find the solution for your own work yourself. -- Lisa Brennan-Jobs in ep007 of On Margins speaking with Craig Mod (≈09:12)
+
+> A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist. — R. Buckminster Fuller
+
 While we like to talk about design in grandiose terms, design students are often still taught to simply be service providers — classes are filled with learning software and creating portfolio-ready work that will get them a job when they graduate -- Jarrett Fuller
 
 What is design? making your ideology realized in an object. It tries to be understandable. Design tries to signal a specific something; an intentional specific meaning that is hoped to be controlled for the right audience and context.
