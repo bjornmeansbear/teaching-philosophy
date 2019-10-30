@@ -6,7 +6,20 @@
 
 > Teach what you most want to learn -- Sim Van Der Ryn
 
+> What is essential is invisible to the eye -- Antoine de Saint-Exupery
+
+> Did you ever grow anything in the garden of your mind -- Fred Rogers
+
+> On the whole there is nothing wrong and nothing right, it simply lives and materializes through the interplay of the forces... — Paul Klee, 1921
+
+> “If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.” — R. Buckminster Fuller
+
+While we like to talk about design in grandiose terms, design students are often still taught to simply be service providers — classes are filled with learning software and creating portfolio-ready work that will get them a job when they graduate -- Jarrett Fuller
+
 What is design? making your ideology realized in an object. It tries to be understandable. Design tries to signal a specific something; an intentional specific meaning that is hoped to be controlled for the right audience and context.
+
+## Design Recipes
+david rudnick: In thinking more about your fine dining analogy, one thing that the chefs have to disseminate their work is technique and recipe sharing. A chef will document what tools, ingredients, techniques, etc. are required to make a dish, and then everyone else can try to do that; do designers have an equivalent? should we be writing design "cook books" to help inspire other designers and the general populace?
 
 ## Free as in Freedom
 If academia is supposed to create new knowledge, we need to get better about abandoning proprietary tools and framworks and adopt and create more free (and in open) ones!
